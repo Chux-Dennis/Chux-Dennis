@@ -1,4 +1,4 @@
-# 💫 About Me:🌱 I’m currently learning Python for Machine Learning<br>💬 Ask me about Typescript , Express , React<br>⚡ Fun fact
+## 🌱 I’m currently learning Python for Machine Learning<br>💬 Ask me about Typescript , Express , React<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
